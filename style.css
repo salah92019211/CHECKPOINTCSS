@@ -1,0 +1,26 @@
+
+.<style> @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap'); </style>
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: whith}
+    .tit{background-color: blueviolet;
+    text-align: center;}
+    .body{ background-color: red;
+        animation-name: example;
+        animation-duration: 4s inherit;
+      }
+      @keyframes example {
+        from {background-color: red;}
+        to {background-color: yellow;}
